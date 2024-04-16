@@ -1,0 +1,36 @@
+Objective:
+The objective of this lab assignment is to create a flower design using LibreCAD, a free and open-source 2D CAD application. Through this exercise, students will gain practical experience in utilizing CAD software for creating intricate designs, understanding basic drawing techniques, and familiarizing themselves with the tools and functionalities of LibreCAD.
+
+Introduction:
+In today's digital age, proficiency in computer-aided design (CAD) software is essential for various fields such as engineering, architecture, and product design. LibreCAD provides an accessible platform for individuals to develop their CAD skills without the need for expensive proprietary software. This assignment serves as an introduction to CAD design principles and techniques, allowing students to apply their knowledge in a practical setting by creating a flower design. By mastering LibreCAD, students can enhance their problem-solving abilities and prepare themselves for future endeavors in design and engineering.
+
+Materials and Equipment:
+
+LibreCAD software (downloaded from https://librecad.org/)
+Computer with compatible operating system (Windows, macOS, Linux)
+Mouse or drawing tablet for precise input
+Procedure:
+
+Launch LibreCAD software on your computer.
+Create a new drawing document by selecting "File" > "New" > "Drawing."
+Set the drawing units and dimensions according to your preference.
+Begin by drawing the outline of the flower petals using the "Line" tool.
+Utilize the "Arc" tool to add curvature to the petals and create a natural-looking shape.
+Use the "Circle" tool to draw the center of the flower.
+Add details such as veins on the petals using the "Polyline" or "Spline" tool.
+Once the basic flower shape is complete, refine the design by adjusting the curves and angles as needed.
+Save your work periodically to prevent data loss.
+Export the final design as a .dxf or .pdf file for submission.
+Results:
+[Include the flower design drawings in their original formats (.dxf, .FCStd) as well as in PDF format.]
+
+Discussion:
+The creation of the flower design using LibreCAD demonstrates the versatility and capabilities of CAD software in producing intricate and detailed designs. One of the main challenges encountered during the lab session was achieving symmetry and balance in the flower petals, which required careful manipulation of drawing tools and precise adjustments. Possible improvements or modifications to the design process could include experimenting with different drawing techniques, utilizing advanced features of LibreCAD, and incorporating color or texture to enhance visual appeal.
+
+Conclusion:
+In conclusion, the lab session provided valuable hands-on experience in CAD design using LibreCAD. By successfully creating a flower design, students have gained a foundational understanding of CAD principles and techniques that can be applied to more complex projects in the future. Continuous practice and exploration of CAD software will further refine skills and foster creativity in design endeavors.
+
+References:
+
+LibreCAD Official Website: https://librecad.org/
+LibreCAD Documentation and Tutorials: https://wiki.librecad.org/
